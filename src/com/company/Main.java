@@ -10,4 +10,7 @@ public class Main {
     public static void cata(){
         System.out.println("first commit cata"); //master branch
     }
+    public static void cata2(){
+        System.out.println("second commit cata"); //still on master branch
+    }
 }
