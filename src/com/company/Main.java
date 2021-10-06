@@ -27,5 +27,7 @@ public class Main {
         System.out.println("aaa");
         System.out.println("bbb");
     }
-
+    public static void testBranchSecondFeature() {
+        System.out.println("new 2inovation");
+    }
 }
