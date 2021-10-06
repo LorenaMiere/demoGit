@@ -22,4 +22,8 @@ public class Main {
         System.out.println("commit on master branch -> lore");
     }
 
+    public static void testBranchNewFeature() {
+        System.out.println("new inovation");
+    }
+
 }
