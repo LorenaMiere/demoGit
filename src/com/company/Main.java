@@ -17,4 +17,8 @@ public class Main {
     public static void catalin3(){
         System.out.println("third commit cata"); //still on master branch
     }
+    public static void lore(){
+        System.out.println("commit on test branch");
+    }
+
 }
