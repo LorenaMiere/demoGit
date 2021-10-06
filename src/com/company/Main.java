@@ -7,4 +7,7 @@ public class Main {
         System.out.println("first commit Lore - test branch");
         System.out.println("second commit Lore - test branch");
     }
+    public static void cata(){
+        System.out.println("first commit cata"); //master branch
+    }
 }
