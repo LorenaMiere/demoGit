@@ -19,6 +19,7 @@ public class Main {
     }
     public static void lore(){
         System.out.println("commit on test branch");
+        System.out.println("commit on master branch -> lore");
     }
 
 }
