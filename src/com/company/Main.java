@@ -30,4 +30,7 @@ public class Main {
     public static void testBranchSecondFeature() {
         System.out.println("new 2inovation");
     }
+    public static void testBranchThirdFeature() {
+        System.out.println("new 3inovation");
+    }
 }
