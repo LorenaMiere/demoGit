@@ -25,5 +25,7 @@ public class Main {
     public static void testBranchNewFeature() {
         System.out.println("new inovation");
     }
-
+    public static void testBranchSecondFeature() {
+        System.out.println("new 2inovation");
+    }
 }
