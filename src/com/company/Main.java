@@ -9,4 +9,9 @@ public class Main {
     public static void testBranchFeature() {
         System.out.println("new feature");
     }
+
+    public static void cataMasterFeature() {
+        System.out.println("new master feature");
+    }
+
 }
