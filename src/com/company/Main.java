@@ -16,4 +16,8 @@ public class Main {
     public static void test() {
         System.out.println("new feature");
     }
+
+    public static void lore() {
+        System.out.println("lore");
+    }
 }
