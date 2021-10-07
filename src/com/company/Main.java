@@ -13,5 +13,7 @@ public class Main {
     public static void cataMasterFeature() {
         System.out.println("new master feature");
     }
-
+    public static void test() {
+        System.out.println("new feature");
+    }
 }
