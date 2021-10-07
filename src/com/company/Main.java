@@ -9,4 +9,8 @@ public class Main {
     public static void testBranchFeature() {
         System.out.println("new feature");
     }
+
+    public static void test() {
+        System.out.println("new feature");
+    }
 }
